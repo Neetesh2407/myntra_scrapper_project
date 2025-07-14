@@ -30,6 +30,5 @@ This project scrapes product reviews from the Myntra website using Selenium and 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
-
+git clone https://github.com/Neetesh2407/myntra_reviews.git
+cd myntra_reviews
