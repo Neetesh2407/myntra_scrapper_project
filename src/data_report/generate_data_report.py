@@ -9,7 +9,7 @@ from src.exception import CustomException
 
 class DashboardGenerator:
     def __init__(self, data):
-        self.data = data
+        self.data = pd.DataFrame(data)
 
     def display_general_info(self):
         st.header('General Information')
